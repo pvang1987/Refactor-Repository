@@ -1,5 +1,26 @@
 # Refactor-Repository
-This repo will be used to house the updated source code of the urban octo telegram files needed to complete the module 1 challenge
+This repo is used to house code for the refactor repository challenge based on the following user story and acceptance criteria.
 
-Changed semantic HTML elements, added alt attributes to images, consolidated code in css, and added comments to css.
-Here is the deployment link: https://pvang1987.github.io/Refactor-Repository/
+# User Story
+AS A marketing agency  
+I WANT a codebase that follows accessibility standards  
+SO THAT our own site is optimized for search engines  
+
+# Acceptance Criteria
+GIVEN a webpage meets accessibility standards  
+WHEN I view the source code  
+THEN I find semantic HTML elements  
+WHEN I view the structure of the HTML elements  
+THEN I find that the elements follow a logical structure independent of styling and positioning  
+WHEN I view the image elements  
+THEN I find accessible alt attributes  
+WHEN I view the heading attributes  
+THEN they fall in sequential order  
+WHEN I view the title element  
+THEN I find a concise, descriptive title  
+
+![Refactor Repository](assets/RefactorRepository_Img.png)    
+
+
+Repository Link: https://github.com/pvang1987/Refactor-Repository  
+Deployment Link: https://pvang1987.github.io/Refactor-Repository/  
